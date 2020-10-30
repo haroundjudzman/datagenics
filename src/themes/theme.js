@@ -1,7 +1,7 @@
 export default {
   fonts: {
     head: "Raleway, sans-serif",
-    body: "Montserrat', sans-serif",
+    body: "Montserrat, sans-serif",
     code: "Roboto Mono, monospace",
   },
   colors: {
@@ -30,5 +30,5 @@ export default {
   },
   shadows: {
     shadow1: "0px 5px 20px rgba(30, 30, 31, 0.05)",
-  },
+  }
 }
