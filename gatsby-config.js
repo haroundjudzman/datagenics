@@ -37,5 +37,16 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `raleway\:400,400i,700,700i`,
+          `montserrat\:400,400i,700,700i`,
+          `roboto mono\:400,400i`,
+        ],
+        display: "swap",
+      },
+    },
   ],
 }
